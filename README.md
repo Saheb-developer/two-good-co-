@@ -6,9 +6,8 @@ A visually rich, scroll-animated clone of the [Two Good Co](https://twogood.com.
 
 ## 🔗 Live Demo
 
-> **Coming soon**  
-> *(Deploy on GitHub Pages, Netlify, or Vercel and paste the link here)*
-
+>  
+> **https://saheb-developer.github.io/two-good-co-/**
 ---
 
 ## ✨ Features
