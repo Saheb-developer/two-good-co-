@@ -35,12 +35,12 @@ A visually rich, scroll-animated clone of the [Two Good Co](https://twogood.com.
 ## 📁 Folder Structure
 
 two-good-co-/
-├── index.html         # Main page 
-├──  style.css          # Styling (including responsive) 
-├── script.js          # Animation & scroll logic 
-├── fonts/             # Custom fonts (e.g., Futura, Gilroy) 
-├── assets/            # Images and videos 
-└── README.md          # Project info
+- ├── index.html         # Main page 
+- ├──  style.css          # Styling (including responsive) 
+- ├── script.js          # Animation & scroll logic 
+- ├── fonts/             # Custom fonts (e.g., Futura, Gilroy) 
+- ├── assets/            # Images and videos 
+- └── README.md          # Project info
 
 ---
 
